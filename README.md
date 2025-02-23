@@ -1,2 +1,2 @@
 # Assignments
-This is a software engineering assignments repo
+This is a software engineering assignments repository
